@@ -4,5 +4,5 @@ Hi, I'm Michal—a junior frontend developer at Cheil Poland working on [Samsung
 ## My way
 🎃 Learn the hard way is always++<br>
 🌟 Small steps each day<br>
-💻 Medium, Dev.to, egghead.io + mini projects
+💻 Medium, Dev.to, egghead.io + mini projects<br>
 🏐 Sport helps out
