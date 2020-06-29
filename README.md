@@ -6,3 +6,18 @@ Hi, I'm Michal—a junior frontend developer at Cheil Poland working on [Samsung
 🌟 Small steps each day<br>
 💻 Medium, Dev.to, egghead.io + mini projects<br>
 🏐 Sport helps out
+
+
+##Junior Front-End Developer<br>
+Sep 2019 - present<Br>
+- Developing custom landing pages and banners<br>
+- Debugging code (HTML/CSS/JS)<br>
+
+##Web Publisher<br>
+Feb 2019 – Aug 2019<br>
+- Publishing Samsung content on the official website<br>
+- Managing of existing websites within Adobe Experience Manager, creation of new ones<br>
+- Selection of templates and components to establish site framework within Adobe Experience Manager<br>
+- Following clear style guides to apply appropriate style classes and rules - to fit AEM environment<br>
+- Notifying PM where assets are incorrect or missing or more direction required<br>
+- Experience with JIRA<br>
